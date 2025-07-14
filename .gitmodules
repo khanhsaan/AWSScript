@@ -1,6 +1,0 @@
-[submodule "AWSUsageScript"]
-	path = AWSUsageScript
-	url = git@github.com:khanhsaan/AWSUsageScript_v1.git
-[submodule "AWSUsageScriptUI"]
-	path = AWSUsageScriptUI
-	url = git@github.com:khanhsaan/AWSUsageScript_v1.git
